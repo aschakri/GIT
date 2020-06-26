@@ -4,3 +4,4 @@ first modificatin
 
 remote first push
 updating in remote server
+updating in remote and pushing local
